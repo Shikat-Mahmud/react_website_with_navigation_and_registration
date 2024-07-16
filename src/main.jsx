@@ -6,7 +6,7 @@ import LoginForm from './components/Login'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    {/* <RegistrationForm/> */}
-    <LoginForm/>
+    <RegistrationForm/>
+    {/* <LoginForm/> */}
   </React.StrictMode>,
 )
