@@ -57,9 +57,11 @@ const RegistrationForm = () => {
                         </form>
                     </div>
                 </div>
-                <p className="text-sm font-light text-gray-500 dark:text-gray-400 mt-3">
+                
+                {/* testing purpose */}
+                {/* <p className="text-sm font-light text-gray-500 dark:text-gray-400 mt-3">
                     Your name is <strong>{user.firstName} {user.lastName}</strong>, your email is <strong>{user.email}</strong> and your password is <strong>{user.password}</strong>.
-                </p>
+                </p> */}
             </div>
         </section>
     );

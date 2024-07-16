@@ -40,9 +40,11 @@ const LoginForm = () => {
                         </form>
                     </div>
                 </div>
-                <p className="text-sm font-light text-gray-500 dark:text-gray-400 mt-3">
+
+                {/* testing purpose */}
+                {/* <p className="text-sm font-light text-gray-500 dark:text-gray-400 mt-3">
                     Your email is <strong>{user.email}</strong> and your password is <strong>{user.password}</strong>.
-                </p>
+                </p> */}
             </div>
         </section>
     );
