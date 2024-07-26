@@ -1,8 +1,12 @@
-# React + Vite
+# React website with login page, registration page and navigation
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+* Navbar
+  ![image](https://github.com/user-attachments/assets/2048202f-cb5a-4e5c-b511-763854f9d5e9)
 
-Currently, two official plugins are available:
+* Login Page
+  ![image](https://github.com/user-attachments/assets/f330cf17-0a93-4973-ae50-6be06a3700f7)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+* Registration Page
+  ![image](https://github.com/user-attachments/assets/e34a2d0e-ad6d-4d68-aa4d-c6058d4a195b)
+
+
